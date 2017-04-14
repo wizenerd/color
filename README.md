@@ -9,4 +9,4 @@ __NOTE__ : The colors are abtsractions for the material design lite css classes.
 
 # Installation
 
-    go tet github.com/wizenerd/color
+    go get github.com/wizenerd/color
